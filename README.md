@@ -1,0 +1,2 @@
+# aikochan
+fucking bot
